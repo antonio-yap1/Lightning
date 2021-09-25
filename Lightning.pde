@@ -1,7 +1,7 @@
-int startx =120;
-int starty=140;
+int startx =0;
+int starty=0;
 int endx=0;
-int endy = 150;
+int endy = 0;
 
 void setup()
 {
