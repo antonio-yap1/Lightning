@@ -6,6 +6,7 @@ int endy = 150;
 void setup()
 {
   size(300,300);
+  background(152,251,152);
   strokeWeight(3);
   stroke(0,0,0);
 }
